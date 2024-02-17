@@ -1,0 +1,35 @@
+*{
+    padding: 0PX;
+    margin: 0PX;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    color: brown;
+    font-weight: 800;
+}
+.navbar{
+    background-color: rgb(42, 44, 165);
+}
+.location>li{
+    list-style: none;
+}
+.search{
+    background-color: orange;
+}
+.RESERVATION{
+    width: 300px;
+    height: auto;
+}
+.page-1{
+
+    /* background-size: cover; */
+    /* width: 100%; */
+    background-size: cover;
+    width: ;
+   
+    
+}
+.card>div{
+background-color: azure;
+;
+}
